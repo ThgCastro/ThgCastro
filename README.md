@@ -18,6 +18,7 @@
 
 ### Sobre
 [![Static Badge](https://img.shields.io/badge/linkedin-323330?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/thgcastro)
+
 ![Linux](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=black&color=white)
 
 <div>
