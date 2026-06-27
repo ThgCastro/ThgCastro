@@ -12,6 +12,9 @@
 ![Typescript](https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue&color=black)
 ![Node](https://img.shields.io/badge/NODE.JS-323330?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
 ![Angular](https://img.shields.io/badge/angular-323330?style=for-the-badge&logo=angular&logoColor=red&color=black)
+![HTLM](https://img.shields.io/badge/html-e22?style=for-the-badge&logo=html5&logoColor=orange&color=black)
+![SCSS](https://img.shields.io/badge/SCSS-e22?style=for-the-badge&logo=sass&logoColor=pink&color=black)
+
 
 ### Sobre
 [![Static Badge](https://img.shields.io/badge/linkedin-323330?style=for-the-badge&logo=linkedin&color=blue)](https://www.linkedin.com/in/thgcastro)
