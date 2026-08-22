@@ -17,6 +17,9 @@
 
 ![Linux](https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=black&color=white)
 
+<img width="60" height="60" alt="72b82d3b-5b82-450d-a00a-5c775e8e54cd" src="https://github.com/user-attachments/assets/e1ea7385-a64f-453f-8661-2e5f9eb8e802" />
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0000FF-00FFFF"/>
+
 </div>
