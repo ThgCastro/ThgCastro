@@ -8,10 +8,10 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green&color=white)
 ![Docker](https://img.shields.io/badge/docker-323330?style=for-the-badge&logo=docker&logoColor=blue&color=white)
 
+![Angular](https://img.shields.io/badge/angular-323330?style=for-the-badge&logo=angular&logoColor=red&color=black)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
 ![Typescript](https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue&color=black)
 ![Node](https://img.shields.io/badge/NODE.JS-323330?style=for-the-badge&logo=nodedotjs&logoColor=green&color=black)
-![Angular](https://img.shields.io/badge/angular-323330?style=for-the-badge&logo=angular&logoColor=red&color=black)
 ![HTLM](https://img.shields.io/badge/html-e22?style=for-the-badge&logo=html5&logoColor=orange&color=black)
 ![SCSS](https://img.shields.io/badge/SCSS-e22?style=for-the-badge&logo=sass&logoColor=pink&color=black)
 
